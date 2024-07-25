@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil-gusain-108
 - 👀 I’m interested in every kind of programming
-- 🌱 I’m currently learning Web Animation
+- 🌱 I’m currently learning Django Devlopment
 - 💞️ I’m want to collaborate on real life problem solving programs
 - 📫 How to reach me contact number --> 7982344621
 
